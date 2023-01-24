@@ -6,7 +6,7 @@
 # Sobre
 
 Projeto criado para ajudar a mapear seus hábitos e anotações diárias de tarefas diárias concluídas ou inacabadas.<br>
-Hábits tem um gráfico diário que mostra com que frequência um hábito foi formado, permitindo que você veja como você mudou ao longo do tempo e fique motivado para continuar.
+<!-- Hábits tem um gráfico diário que mostra com que frequência um hábito foi formado, permitindo que você veja como você mudou ao longo do tempo e fique motivado para continuar. -->
 
 ## Aulas
   * Iniciando o projeto <br>
